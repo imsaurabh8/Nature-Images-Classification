@@ -22,5 +22,7 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 # Result
 epochs=10
+
 Val Accu is 81 %.
-Used-CNN
+
+
